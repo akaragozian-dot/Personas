@@ -1,0 +1,689 @@
+{
+  "version": 1,
+  "generated": "2026-10-24",
+  "source": "Figma file \"Personas 1.4\", page \"Personas\"",
+  "note": "username is auto-generated from the alias; edit freely. Videos of the Figma personas are not included by the exporter (Figma cannot export them). The six \"airis\" personas come with airis-personas.zip.",
+  "personas": [
+    {
+      "id": "anelia-thaver-pride",
+      "username": "anelia_thaver_pride",
+      "alias": "A N E L I A 😈 THAVER PRIDE 🐆",
+      "group": "creator",
+      "avatar": "anelia-thaver-pride/avatar.jpg",
+      "video": "anelia-thaver-pride/intro.mp4",
+      "poster": "anelia-thaver-pride/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "asya-fatal",
+      "username": "asya_fatal",
+      "alias": "Asya ☄️Fatal☄️",
+      "group": "creator",
+      "avatar": "asya-fatal/avatar.jpg",
+      "video": "asya-fatal/intro.mp4",
+      "poster": "asya-fatal/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "boss-lady",
+      "username": "boss_lady",
+      "alias": "Boss Lady💳",
+      "group": "creator",
+      "avatar": "boss-lady/avatar.jpg",
+      "video": "boss-lady/intro.mp4",
+      "poster": "boss-lady/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "casdia-angelic",
+      "username": "casdia_angelic",
+      "alias": "Casdia🦢 Angelic🦁",
+      "group": "creator",
+      "avatar": "casdia-angelic/avatar.jpg",
+      "video": "casdia-angelic/intro.mp4",
+      "poster": "casdia-angelic/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "gold-agrippina-cool",
+      "username": "gold_agrippina_cool",
+      "alias": "GOLD 👑 AGRIPPINA👑 cool",
+      "group": "creator",
+      "avatar": "gold-agrippina-cool/avatar.jpg",
+      "video": "gold-agrippina-cool/intro.mp4",
+      "poster": "gold-agrippina-cool/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "hip-hop-nikolai-hbtc",
+      "username": "hip_hop_nikolai_hbtc",
+      "alias": "Hip Hop 🥋 Nikolai Hbtc",
+      "group": "viewer",
+      "avatar": "hip-hop-nikolai-hbtc/avatar.jpg",
+      "video": "hip-hop-nikolai-hbtc/intro.mp4",
+      "poster": "hip-hop-nikolai-hbtc/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "kate-watercolor",
+      "username": "kate_watercolor",
+      "alias": "Kate🐟💜 Watercolor🖌🎨",
+      "group": "creator",
+      "avatar": "kate-watercolor/avatar.jpg",
+      "video": "kate-watercolor/intro.mp4",
+      "poster": "kate-watercolor/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "natalya-i-am-a-vocal-teacher",
+      "username": "natalya_i_am_a_vocal_teacher",
+      "alias": "Natalya I am a vocal teacher",
+      "group": "creator",
+      "avatar": "natalya-i-am-a-vocal-teacher/avatar.jpg",
+      "video": "natalya-i-am-a-vocal-teacher/intro.mp4",
+      "poster": "natalya-i-am-a-vocal-teacher/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "vlad-arturan",
+      "username": "vlad_arturan",
+      "alias": "Vlad Arturan",
+      "group": "viewer",
+      "avatar": "vlad-arturan/avatar.jpg",
+      "video": "vlad-arturan/intro.mp4",
+      "poster": "vlad-arturan/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "cutie-crafter",
+      "username": "cutie_crafter",
+      "alias": "✂️Cutie Crafter🧵",
+      "group": "creator",
+      "avatar": "cutie-crafter/avatar.jpg",
+      "video": "cutie-crafter/intro.mp4",
+      "poster": "cutie-crafter/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "vivi-vibin",
+      "username": "vivi_vibin",
+      "alias": "✨Vivi Vibin’💥",
+      "group": "creator",
+      "avatar": "vivi-vibin/avatar.jpg",
+      "video": "vivi-vibin/intro.mp4",
+      "poster": "vivi-vibin/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "mwwm",
+      "username": "mwwm",
+      "alias": "⭐ ⚡M€W🛸W€M⚡ ⭐",
+      "group": "viewer",
+      "avatar": "mwwm/avatar.jpg",
+      "video": "mwwm/intro.mp4",
+      "poster": "mwwm/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "katalina-booo-whooo",
+      "username": "katalina_booo_whooo",
+      "alias": "🌈Katalina Booo Whooo🦄",
+      "group": "creator",
+      "avatar": "katalina-booo-whooo/avatar.jpg",
+      "video": "katalina-booo-whooo/intro.mp4",
+      "poster": "katalina-booo-whooo/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "john-zenith",
+      "username": "john_zenith",
+      "alias": "🌟John Zenith🌠",
+      "group": "creator",
+      "avatar": "john-zenith/avatar.jpg",
+      "video": "john-zenith/intro.mp4",
+      "poster": "john-zenith/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "alexis-ma",
+      "username": "alexis_ma",
+      "alias": "🌸🌸ALEXIS🌸🌸 M&A🌸🌸",
+      "group": "creator",
+      "avatar": "alexis-ma/avatar.jpg",
+      "video": "alexis-ma/intro.mp4",
+      "poster": "alexis-ma/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "sunny-smile",
+      "username": "sunny_smile",
+      "alias": "🌼Sunny Smile😊",
+      "group": "creator",
+      "avatar": "sunny-smile/avatar.jpg",
+      "video": "sunny-smile/intro.mp4",
+      "poster": "sunny-smile/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "lucky-dj-alina-rovnich-and-gold",
+      "username": "lucky_dj_alina_rovnich_and_gold",
+      "alias": "🍀Lucky🍀DJ ALINA ROVNICH and Gold",
+      "group": "creator",
+      "avatar": "lucky-dj-alina-rovnich-and-gold/avatar.jpg",
+      "video": "lucky-dj-alina-rovnich-and-gold/intro.mp4",
+      "poster": "lucky-dj-alina-rovnich-and-gold/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "selena-bloom",
+      "username": "selena_bloom",
+      "alias": "🍃Selena🌸Bloom🌿",
+      "group": "creator",
+      "avatar": "selena-bloom/avatar.jpg",
+      "video": "selena-bloom/intro.mp4",
+      "poster": "selena-bloom/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "choco-charm",
+      "username": "choco_charm",
+      "alias": "🍫Choco Charm🍒",
+      "group": "viewer",
+      "avatar": "choco-charm/avatar.jpg",
+      "video": "choco-charm/intro.mp4",
+      "poster": "choco-charm/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "light-star-singer",
+      "username": "light_star_singer",
+      "alias": "🎤Light STAR 🎧 SINGER🎶",
+      "group": "creator",
+      "avatar": "light-star-singer/avatar.jpg",
+      "video": "light-star-singer/intro.mp4",
+      "poster": "light-star-singer/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "melody-king",
+      "username": "melody_king",
+      "alias": "🎤Melody🎼King👑",
+      "group": "viewer",
+      "avatar": "melody-king/avatar.jpg",
+      "video": "melody-king/intro.mp4",
+      "poster": "melody-king/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "dj-vibe-wave",
+      "username": "dj_vibe_wave",
+      "alias": "🎧DJ VIBE💃Wave🌊",
+      "group": "creator",
+      "avatar": "dj-vibe-wave/avatar.jpg",
+      "video": "dj-vibe-wave/intro.mp4",
+      "poster": "dj-vibe-wave/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "artistica-ava",
+      "username": "artistica_ava",
+      "alias": "🎨Artistica Ava🎭",
+      "group": "creator",
+      "avatar": "artistica-ava/avatar.jpg",
+      "video": "artistica-ava/intro.mp4",
+      "poster": "artistica-ava/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "sasha-sparkle",
+      "username": "sasha_sparkle",
+      "alias": "💖Sasha💎Sparkle🌈",
+      "group": "creator",
+      "avatar": "sasha-sparkle/avatar.jpg",
+      "video": "sasha-sparkle/intro.mp4",
+      "poster": "sasha-sparkle/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "lana-lovebug",
+      "username": "lana_lovebug",
+      "alias": "💜Lana Lovebug🐞",
+      "group": "creator",
+      "avatar": "lana-lovebug/avatar.jpg",
+      "video": "lana-lovebug/intro.mp4",
+      "poster": "lana-lovebug/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "habiba-habbuba",
+      "username": "habiba_habbuba",
+      "alias": "💞HaBiBa💞 💝HabBUBA💝",
+      "group": "creator",
+      "avatar": "habiba-habbuba/avatar.jpg",
+      "video": "habiba-habbuba/intro.mp4",
+      "poster": "habiba-habbuba/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "nik-nova",
+      "username": "nik_nova",
+      "alias": "💥Nik Nova⚡️",
+      "group": "viewer",
+      "avatar": "nik-nova/avatar.jpg",
+      "video": "nik-nova/intro.mp4",
+      "poster": "nik-nova/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "bouba27",
+      "username": "bouba27",
+      "alias": "💯%bouba27🦂",
+      "group": "viewer",
+      "avatar": "bouba27/avatar.jpg",
+      "video": "bouba27/intro.mp4",
+      "poster": "bouba27/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "alexa-legend",
+      "username": "alexa_legend",
+      "alias": "🔥A L E X A🔮Legend💫",
+      "group": "creator",
+      "avatar": "alexa-legend/avatar.jpg",
+      "video": "alexa-legend/intro.mp4",
+      "poster": "alexa-legend/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "alex-pianoboy",
+      "username": "alex_pianoboy",
+      "alias": "🔥Alex 🔥PianoBoy 🎹",
+      "group": "viewer",
+      "avatar": "alex-pianoboy/avatar.jpg",
+      "video": "alex-pianoboy/intro.mp4",
+      "poster": "alex-pianoboy/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "cool-cassie",
+      "username": "cool_cassie",
+      "alias": "🕶️Cool Cassie😎",
+      "group": "viewer",
+      "avatar": "cool-cassie/avatar.jpg",
+      "video": "cool-cassie/intro.mp4",
+      "poster": "cool-cassie/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "sakura-haruno",
+      "username": "sakura_haruno",
+      "alias": "😏Sakura😏 💕Haruno💕",
+      "group": "creator",
+      "avatar": "sakura-haruno/avatar.jpg",
+      "video": "sakura-haruno/intro.mp4",
+      "poster": "sakura-haruno/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "mr-iceman-dome",
+      "username": "mr_iceman_dome",
+      "alias": "🛡️Mr IceMan⭐DOME⭐ 🎸🎸",
+      "group": "viewer",
+      "avatar": "mr-iceman-dome/avatar.jpg",
+      "video": "mr-iceman-dome/intro.mp4",
+      "poster": "mr-iceman-dome/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "techie-tina",
+      "username": "techie_tina",
+      "alias": "🤖Techie Tina⚡",
+      "group": "creator",
+      "avatar": "techie-tina/avatar.jpg",
+      "video": "techie-tina/intro.mp4",
+      "poster": "techie-tina/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "mia-mystic",
+      "username": "mia_mystic",
+      "alias": "🦄MIA Mystic🪄",
+      "group": "creator",
+      "avatar": "mia-mystic/avatar.jpg",
+      "video": "mia-mystic/intro.mp4",
+      "poster": "mia-mystic/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "bella-breezy",
+      "username": "bella_breezy",
+      "alias": "🦋Bella Breezy🌬️",
+      "group": "creator",
+      "avatar": "bella-breezy/avatar.jpg",
+      "video": "bella-breezy/intro.mp4",
+      "poster": "bella-breezy/poster.jpg",
+      "moments": []
+    },
+    {
+      "id": "anastasia",
+      "username": "anastasia",
+      "alias": "Anastasia",
+      "group": "airis",
+      "avatar": "anastasia/avatar.png",
+      "video": "anastasia/intro.mp4",
+      "poster": "anastasia/poster.jpg",
+      "moments": [],
+      "content": [
+        "anastasia/content/01.jpg",
+        "anastasia/content/02.jpg",
+        "anastasia/content/03.jpg",
+        "anastasia/content/04.jpg",
+        "anastasia/content/05.jpg",
+        "anastasia/content/06.jpg",
+        "anastasia/content/07.jpg",
+        "anastasia/content/08.jpg",
+        "anastasia/content/09.jpg",
+        "anastasia/content/10.jpg",
+        "anastasia/content/11.jpg"
+      ]
+    },
+    {
+      "id": "antigone",
+      "username": "antigone",
+      "alias": "Antigone",
+      "group": "airis",
+      "avatar": "antigone/avatar.png",
+      "video": "antigone/intro.mp4",
+      "poster": "antigone/poster.jpg",
+      "moments": [],
+      "content": [
+        "antigone/content/01.jpg",
+        "antigone/content/02.jpg",
+        "antigone/content/03.jpg",
+        "antigone/content/04.jpg",
+        "antigone/content/05.jpg",
+        "antigone/content/06.jpg",
+        "antigone/content/07.jpg",
+        "antigone/content/08.jpg",
+        "antigone/content/09.jpg",
+        "antigone/content/10.jpg",
+        "antigone/content/11.jpg",
+        "antigone/content/12.jpg",
+        "antigone/content/13.jpg",
+        "antigone/content/14.jpg"
+      ]
+    },
+    {
+      "id": "ariadne",
+      "username": "ariadne",
+      "alias": "Ariadne",
+      "group": "airis",
+      "avatar": "ariadne/avatar.png",
+      "video": "ariadne/intro.mp4",
+      "poster": "ariadne/poster.jpg",
+      "moments": [],
+      "content": [
+        "ariadne/content/01.jpg",
+        "ariadne/content/02.jpg",
+        "ariadne/content/03.jpg",
+        "ariadne/content/04.jpg",
+        "ariadne/content/05.jpg",
+        "ariadne/content/06.jpg",
+        "ariadne/content/07.jpg"
+      ]
+    },
+    {
+      "id": "despina",
+      "username": "despina",
+      "alias": "Despina",
+      "group": "airis",
+      "avatar": "despina/avatar.png",
+      "video": "despina/intro.mp4",
+      "poster": "despina/poster.jpg",
+      "moments": [],
+      "content": [
+        "despina/content/01.jpg",
+        "despina/content/02.jpg",
+        "despina/content/03.jpg",
+        "despina/content/04.jpg",
+        "despina/content/05.jpg",
+        "despina/content/06.jpg",
+        "despina/content/07.jpg",
+        "despina/content/08.jpg",
+        "despina/content/09.jpg"
+      ]
+    },
+    {
+      "id": "eleni",
+      "username": "eleni",
+      "alias": "Eleni",
+      "group": "airis",
+      "avatar": "eleni/avatar.png",
+      "video": "eleni/intro.mp4",
+      "poster": "eleni/poster.jpg",
+      "moments": [],
+      "content": [
+        "eleni/content/01.jpg",
+        "eleni/content/02.jpg",
+        "eleni/content/03.jpg",
+        "eleni/content/04.jpg",
+        "eleni/content/05.jpg",
+        "eleni/content/06.jpg",
+        "eleni/content/07.jpg",
+        "eleni/content/08.jpg",
+        "eleni/content/09.jpg",
+        "eleni/content/10.jpg"
+      ]
+    },
+    {
+      "id": "irini",
+      "username": "irini",
+      "alias": "Irini",
+      "group": "airis",
+      "avatar": "irini/avatar.png",
+      "video": "irini/intro.mp4",
+      "poster": "irini/poster.jpg",
+      "moments": [
+        "irini/moment-1.mp4"
+      ],
+      "content": [
+        "irini/content/01.jpg",
+        "irini/content/02.jpg",
+        "irini/content/03.jpg",
+        "irini/content/04.jpg",
+        "irini/content/05.jpg"
+      ]
+    }
+  ],
+  "animalAvatars": {
+    "male": [
+      {
+        "id": "samuraitiger",
+        "name": "SamuraiTiger",
+        "file": "animals/male/samuraitiger.jpg"
+      },
+      {
+        "id": "futuristicsquirrel",
+        "name": "FuturisticSquirrel",
+        "file": "animals/male/futuristicsquirrel.jpg"
+      },
+      {
+        "id": "majorrhino",
+        "name": "MajorRhino",
+        "file": "animals/male/majorrhino.jpg"
+      },
+      {
+        "id": "chiefcheetah",
+        "name": "ChiefCheetah",
+        "file": "animals/male/chiefcheetah.jpg"
+      },
+      {
+        "id": "fancyboar",
+        "name": "FancyBoar",
+        "file": "animals/male/fancyboar.jpg"
+      },
+      {
+        "id": "countcougar",
+        "name": "CountCougar",
+        "file": "animals/male/countcougar.jpg"
+      },
+      {
+        "id": "dukelion",
+        "name": "DukeLion",
+        "file": "animals/male/dukelion.jpg"
+      },
+      {
+        "id": "chillwolf",
+        "name": "ChillWolf",
+        "file": "animals/male/chillwolf.jpg"
+      },
+      {
+        "id": "partystag",
+        "name": "PartyStag",
+        "file": "animals/male/partystag.jpg"
+      },
+      {
+        "id": "businessbull",
+        "name": "BusinessBull",
+        "file": "animals/male/businessbull.jpg"
+      },
+      {
+        "id": "sirbear",
+        "name": "SirBear",
+        "file": "animals/male/sirbear.jpg"
+      },
+      {
+        "id": "flycobra",
+        "name": "FlyCobra",
+        "file": "animals/male/flycobra.jpg"
+      },
+      {
+        "id": "misterbadger",
+        "name": "MisterBadger",
+        "file": "animals/male/misterbadger.jpg"
+      },
+      {
+        "id": "princepanther",
+        "name": "PrincePanther",
+        "file": "animals/male/princepanther.jpg"
+      },
+      {
+        "id": "classygator",
+        "name": "ClassyGator",
+        "file": "animals/male/classygator.jpg"
+      },
+      {
+        "id": "boxingbear",
+        "name": "BoxingBear",
+        "file": "animals/male/boxingbear.jpg"
+      },
+      {
+        "id": "tuxedocat",
+        "name": "TuxedoCat",
+        "file": "animals/male/tuxedocat.jpg"
+      }
+    ],
+    "female": [
+      {
+        "id": "sunnykitty",
+        "name": "SunnyKitty",
+        "file": "animals/female/sunnykitty.jpg"
+      },
+      {
+        "id": "sketerwolf",
+        "name": "SketerWolf",
+        "file": "animals/female/sketerwolf.jpg"
+      },
+      {
+        "id": "starryowl",
+        "name": "StarryOwl",
+        "file": "animals/female/starryowl.jpg"
+      },
+      {
+        "id": "playfulfox",
+        "name": "PlayfulFox",
+        "file": "animals/female/playfulfox.jpg"
+      },
+      {
+        "id": "prettypuppy",
+        "name": "PrettyPuppy",
+        "file": "animals/female/prettypuppy.jpg"
+      },
+      {
+        "id": "rockerskunk",
+        "name": "RockerSkunk",
+        "file": "animals/female/rockerskunk.jpg"
+      },
+      {
+        "id": "bossdalmation",
+        "name": "BossDalmation",
+        "file": "animals/female/bossdalmation.jpg"
+      },
+      {
+        "id": "djpanda",
+        "name": "DJPanda",
+        "file": "animals/female/djpanda.jpg"
+      },
+      {
+        "id": "coolfawn",
+        "name": "CoolFawn",
+        "file": "animals/female/coolfawn.jpg"
+      }
+    ]
+  },
+  "namePool": [
+    "🌈Katalina Booo Whooo🦄",
+    "A N E L I A 😈 THAVER PRIDE 🐆",
+    "🌸🌸ALEXIS🌸🌸 M&A🌸🌸",
+    "DeeUnpredictable1",
+    "Nina🖌🖍✏ Artist🌟🌟🌟",
+    "Asya ☄️Fatal☄️",
+    "🍀Lucky🍀DJ ALINA ROVNICH and Gold",
+    "GOLD 👑 AGRIPPINA👑 cool",
+    "Boss Lady💳",
+    "Alina🎙️ Art inside✨",
+    "Yana Shvets",
+    "😏Sakura😏 💕Haruno💕",
+    "🎤Light STAR 🎧 SINGER🎶",
+    "Kate🐟💜 Watercolor🖌🎨",
+    "Natalya I am a vocal teacher",
+    "Casdia🦢 Angelic🦁",
+    "💞HaBiBa💞 💝HabBUBA💝",
+    "Cherry pie Sweet Cherry",
+    "✨Vivi Vibin’💥",
+    "🦄MIA Mystic🪄",
+    "🍃Selena🌸Bloom🌿",
+    "🔥A L E X A🔮Legend💫",
+    "🤖Techie Tina⚡",
+    "💜Lana Lovebug🐞",
+    "🌟John Zenith🌠",
+    "🎤Melody🎼King👑",
+    "💥Nik Nova⚡️",
+    "🎨Artistica Ava🎭",
+    "🦋Bella Breezy🌬️",
+    "🌼Sunny Smile😊",
+    "🎧DJ VIBE💃Wave🌊",
+    "🕶️Cool Cassie😎",
+    "✂️Cutie Crafter🧵",
+    "💖Sasha💎Sparkle🌈",
+    "🍫Choco Charm🍒",
+    "🍀Lucky🍀 Ravil Krik⚡️",
+    "ARTEM🎹MALTZEV🤦🏻♂️🤷🏼♂️",
+    "🎸RA.MAN🎶 🎶GuitarMan🎸",
+    "💯%bouba17🦂",
+    "Super Saiyan De Marina For Ever",
+    "🔥Phoenix🔥 ⚡Baldeezzhh",
+    "⭐ ⚡M€W🛸W€M⚡ ⭐",
+    "Hip Hop 🥋 Nikolai Hbtc",
+    "DackFax, Pavel, I sing Rus rock songs with a guitar.",
+    "🔥Alex 🔥PianoBoy 🎹☘️Lucky☘️",
+    "🛡️Mr IceMan⭐DOME⭐ 🎸🎸",
+    "HIP HOP 🌎 Can On FLWR PWR",
+    "The🎸rais🎸tabla🎸Guy",
+    "Vlad Arturan",
+    "Alex 🐋 Pecherytsya",
+    "HIP HOP 🦾 VA BOOGIE",
+    "🤴🏿BlackKingSnake🐍",
+    "✝💙(A)ND(®️)E(H)🖤✝"
+  ]
+}
